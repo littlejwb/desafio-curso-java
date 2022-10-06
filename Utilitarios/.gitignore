@@ -10,6 +10,6 @@ local.properties
 .loadpath
 .recommenders
 /target/
-/.classpath
-/*.project
+.classpath
+.project
 /*.springBeans
