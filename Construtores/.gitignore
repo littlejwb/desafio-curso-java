@@ -1,15 +1,4 @@
-.metadata
 bin/
-tmp/
-*.tmp
-*.bak
-*.swp
-*~.nib
-local.properties
+.classpath
+.project
 .settings/
-.loadpath
-.recommenders
-/target/
-/.classpath
-/*.project
-/*.springBeans
