@@ -1,14 +1,12 @@
 ## Exercício sobre utilitários e membros estáticos.
 
-### Objetivo:
-Fazer um programa que leia a cotação do dólar e depois o valor em dólares que o usuário vai comprar. Ao final, mostrar o valor total em reais considerando 6% de IOF na transação (criar classe CurrencyConverter para ser responsável pelos os cálculos).
+Este repositório contém a resolução de um exercício sobre utilitários e membros estáticos em Java. O objetivo é praticar o uso destes conceitos para solucionar problemas comuns em programação.
 
-*Foi utilizado conhecimento sobre lógica de programação e programação orientada a objetos neste exercício.*
+### Requisitos
+- Java 8 ou superior
+- Conhecimentos básicos em orientação a objetos
 
-Fonte: https://www.udemy.com/course/java-curso-completo/
- 
- 
+### Solução 
 
-
-  
-  
+Este projeto contém o código que resolve o seguinte exercício:
+> Fazer um programa que leia a cotação do dólar e depois o valor em dólares que o usuário vai comprar. Ao final, mostrar o valor total em reais considerando 6% de IOF na transação (criar classe CurrencyConverter para ser responsável pelos os cálculos).
