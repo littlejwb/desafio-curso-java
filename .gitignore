@@ -40,18 +40,4 @@ local.properties
 /*.project
 /*.springBeans
 
-DesafioExceptions/.classpath
-DesafioExceptions/.project
-Exceptions/.classpath
-Exceptions/.project
 
-DesafioInterfaces/.classpath
-DesafioInterfaces/.project
-DesafioMap/.classpath
-DesafioMap/.project
-DesafioSet/.classpath
-DesafioSet/.project
-ExercicioFile/.classpath
-ExercicioFile/.project
-Generics2/.classpath
-Generics2/.project
